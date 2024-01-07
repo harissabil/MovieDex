@@ -16,7 +16,7 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles("consumer-rules.pro")
 
-        buildConfigField("String", "API_KEY", "\"a608372cd62baa6e65e34b521e7684b9\"")
+        buildConfigField("String", "API_KEY", "\"YOUR_THEMOVIEDB_API_KEY\"")
     }
 
     buildTypes {
