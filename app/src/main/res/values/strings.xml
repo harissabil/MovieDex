@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieDex</string>
+    <string name="title_movie_favorite">Movie Favorite</string>
+</resources>
